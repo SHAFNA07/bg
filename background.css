@@ -1,0 +1,22 @@
+body{
+
+background-image: url("./image/images.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+div{
+height: 400px;
+width: 500px;
+border: red 2px solid;
+background-color: rgba(0, 0, 255, 0.418);
+}
+div p{
+    color: white;
+}
+
+h1,h2{
+
+    color: yellow;
+}

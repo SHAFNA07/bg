@@ -1,0 +1,23 @@
+CSS
+..............
+Cascading Style Sheet
+
+types
+1. inline CSS
+2. internal CSS
+3. external css
+
+format to give Style
+
+property1: value;  property2:value;
+
+
+selectors
+
+tagname
+id selector #
+class selector .
+
+
+
+margin- top right left bottom to change the position of box
